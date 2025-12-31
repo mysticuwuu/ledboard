@@ -8,3 +8,5 @@ This is powered by a beefy powersupply of 10A atleast and the brain of the proje
 The body is 3d printed, with acrylic diffuser. there's no need of any custom pcb, everything will be soldered or connected using jumper wire.
 Image of project is attached in the files.
 Thank you.
+
+<img width="1180" height="802" alt="Screenshot 2025-12-30 155520" src="https://github.com/user-attachments/assets/b0226a85-34fe-40a7-b2f9-ca0f3340e4ec" />
